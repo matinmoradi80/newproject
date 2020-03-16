@@ -7,6 +7,5 @@ public class NEWCLASS {
         String input = scanner.nextLine();
 
         System.out.println(input);
-        System.out.println("YES");
     }
 }
